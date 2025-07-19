@@ -23,7 +23,7 @@ function DATAMatrix( Q ) {
 	,toAscii = function( t ) {
 
 		var
-		r = [232],
+		r = [],
 		l = t.length;
 
 		for( var i = 0; i < l; i++ ) {
